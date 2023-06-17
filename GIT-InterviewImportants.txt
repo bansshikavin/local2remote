@@ -1,4 +1,10 @@
-SDLC => Scrum FrameWork
+
+SAMPLE FILE
+
+
+
+
+
 
 Product Owner => FrostBite Person
 Product Backlog => Features for the entire project
